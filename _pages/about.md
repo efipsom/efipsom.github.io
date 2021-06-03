@@ -2,17 +2,16 @@
 layout: about
 title: about
 permalink: /
-description: Research Associate in Robotics | Lecturer in Data Science.
+description: Grasping and in-hand Manipulation | physical Human-Robot Interaction | Control Engineering.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Robotic Grasping and Manipulation</p>
-    <p>physical Human-Robot Interaction</p>
-    <p>Control Engineering</p>
+    <p>Research Associate in Robotics</p>
+    <p>Lecturer in Data Science</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
