@@ -147,9 +147,6 @@ scholar:
 
   style: ieee
   locale: en
-  
-  group_by: type
-  group_order: descending
 
   source: /_bibliography/
   bibliography: papers.bib
