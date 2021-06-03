@@ -1,11 +1,17 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: A biomimetic forebrain for robot touch
+description: A Leverhulme Trust project 
 img: /assets/img/12.jpg
 importance: 1
 category: work
 ---
+
+Research work within the context of the Leverhulme Trust award on ”A biomimetic forebrain for robot touch” led by Prof. Nathan Lepora.
+
+Integration of deep learning for tactile sensing with robotic hand control for fine grasping and in-hand object manipulation.
+Deep learning using convolutional neural networks on images from an optical tactile sensor (the TacTip, developed in Bristol Robotics Laboratory). 
+Non model-based torque controller using passivity theory for stability analysis. Implementation done on a three-fingered robotic hand (the Shadow Modular Grasper).
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
