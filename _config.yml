@@ -145,7 +145,7 @@ scholar:
   last_name: Psomopoulou
   first_name: [Efi, E., E]
 
-  style: ieee
+  dependent/style: ieee
   locale: en
   
   group_by: type
