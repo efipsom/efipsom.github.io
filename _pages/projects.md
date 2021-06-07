@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Projects I have worked on.
+description: 
 nav: true
 display_categories: [current projects, past projects]
 horizontal: false

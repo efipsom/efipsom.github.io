@@ -334,7 +334,7 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: $grey-color-dark;
+    color: var(--global-footer-bg-color);
     border-bottom: 1px solid $grey-color-light;
     padding-top: 0.5rem;
     margin-top: 2rem;
@@ -362,7 +362,7 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: $grey-color-dark;
+    color: var(--global-footer-bg-color);
     border-top: 1px solid $grey-color-light;
     padding-top: 1rem;
     margin-top: 2rem;
