@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: The publications can also be found on my <a href="https://scholar.google.com/citations?user=kVyW-LEAAAAJ"><u>Google Scholar</u></a> and <a href="https://www.researchgate.net/profile/Efi-Psomopoulou"><u>Research Gate</u></a> profiles.
+description: An up-to-date list is available on <a href="https://scholar.google.com/citations?user=kVyW-LEAAAAJ"><u>Google Scholar</u></a> and <a href="https://www.researchgate.net/profile/Efi-Psomopoulou"><u>Research Gate</u></a>.
 years: [2021, 2020, 2019, 2018, 2017, 2015, 2014, 2012]
 nav: true
 ---
