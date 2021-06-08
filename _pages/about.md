@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Research Associate in Robotics ○</p>
+    <p>Research Associate in Robotics •</p>
     <p>Lecturer in Data Science</p>
 
 news: true  # includes a list of news items

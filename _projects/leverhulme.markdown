@@ -15,3 +15,6 @@ Deep learning using convolutional neural networks on images from an optical tact
  
 Non model-based torque controller using passivity theory for stability analysis. Implementation done on a three-fingered robotic hand (the Shadow Modular Grasper).
 
+<a href="https://youtu.be/rfQesw3FDA4" target="_blank"><img src="https://i9.ytimg.com/vi/rfQesw3FDA4/maxresdefault.jpg?time=1623102900000&sqp=CLSr-oUG&rs=AOn4CLCYIrWqB8tGon1rrJ0e1QgOuF4wIA"
+alt="Stable pinching using tactile sensing" width="240" height="180" border="1" /></a>
+
