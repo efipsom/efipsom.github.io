@@ -7,7 +7,7 @@ importance: 1
 category: current projects
 ---
 
-Research work within the context of the Leverhulme Trust award on ”A biomimetic forebrain for robot touch” led by Prof. Nathan Lepora.
+Research work within the context of the Leverhulme Trust award on ”A biomimetic forebrain for robot touch” led by [Prof. Nathan Lepora](https://lepora.com/).
 
 Integration of deep learning for tactile sensing with robotic hand control for fine grasping and in-hand object manipulation.
 
@@ -15,6 +15,6 @@ Deep learning using convolutional neural networks on images from an optical tact
  
 Non model-based torque controller using passivity theory for stability analysis. Implementation done on a three-fingered robotic hand (the Shadow Modular Grasper).
 
-<a href="https://youtu.be/rfQesw3FDA4" target="_blank"><img src="https://i9.ytimg.com/vi/rfQesw3FDA4/maxresdefault.jpg?time=1623102900000&sqp=CLSr-oUG&rs=AOn4CLCYIrWqB8tGon1rrJ0e1QgOuF4wIA"
+<a href="https://youtu.be/rfQesw3FDA4" target="_blank"><img src="/assets/img/pinch_thumbnail.jpg"
 alt="Stable pinching using tactile sensing" width="240" height="180" border="1" /></a>
 
