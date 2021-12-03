@@ -57,8 +57,7 @@ max_width: 1000px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/my-octocat.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -221,7 +220,7 @@ scholar:
   last_name: Psomopoulou
   first_name: [Efi, E., E]
 
-  style: ieee
+  dependent/style: ieee
   locale: en
 
   source: /_bibliography/
