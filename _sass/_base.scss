@@ -55,13 +55,14 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
+  margin-left: 4rem;
   width: 100%;
 
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: 'Lucida Sans';
+    font-size: 1.01rem;
     p {
       display: inline-block;
       margin: 0;
