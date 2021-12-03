@@ -2,7 +2,7 @@
 layout: page
 title: Tactile grasping
 description: A biomimetic forebrain for robot touch | Leverhulme Trust 
-img: /assets/img/leverhulme.jpg
+img: assets/img/leverhulme.jpg
 importance: 1
 category: current projects
 ---
