@@ -18,7 +18,7 @@ profile:
 >>>>>>> Website content for old version
   address: >
     <p>Senior Research Associate in Robotics •</p>
-    <p>Hybrid Teaching Fellow in Data Science</p>
+    <p>Teaching Fellow in Data Science</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
