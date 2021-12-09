@@ -8,7 +8,7 @@ profile:
   align: right
   image: my-octocat.png
   address: >
-    <p>Research Associate in Robotics •</p>
+    <p>Senior Research Associate in Robotics •</p>
     <p>Hybrid Teaching Fellow in Data Science</p>
 
 news: true  # includes a list of news items
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a Researcher in Robotics and Hybrid Teaching Fellow in Data Science in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics). 
+I am currently a Researcher in Robotics and Teaching Fellow in Data Science in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics). 
 
 **Previously**:
 * Lecturer in Data Science in the Dept of Engineering Maths at the University of Bristol.
