@@ -28,7 +28,6 @@ social: false  # includes social icons at the bottom of the page
 I am currently a Researcher in Robotics and Teaching Fellow in Data Science in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics). 
 
 **Previously**:
-* Lecturer in Data Science in the Dept of Engineering Maths at the University of Bristol.
 * Research Associate in Medical Robotics at the Dept of Engineering, Design and Mathematics at the University of the West of England and Bristol Robotics Laboratory.
 * Research Assistant at the Information Technologies Institute of the Centre for Research and Technology Hellas.
 * Teaching Assistant at the Dept of Electrical and Computer Engineering (ECE) at the Aristotle University of Thessaloniki (AUTH).
