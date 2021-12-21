@@ -8,6 +8,7 @@ inline: false
 **Research areas: Grasping, Manipulation and Physical Human-Robot Interaction**
 
 **University of Bristol and Bristol Robotics Laboratory, UK**
+
 **Closing date: 11th January 2022**
 
 Applications are invited for a 3.5 year funded PhD Studentship at the University of Bristol and Bristol Robotics Laboratory, UK.
