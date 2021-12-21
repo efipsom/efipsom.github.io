@@ -12,7 +12,7 @@ inline: false
 
 Applications are invited for a 3.5 year funded PhD Studentship at the University of Bristol and Bristol Robotics Laboratory, UK.
 
-Funding is available for suitable candidates at a tax-free stipend of £15,609 for 2021/22 (2022/23 rate tbc) per year. Further details can be found at: [PhD Engineering Mathematics | Study at Bristol | University of Bristol](http://www.bristol.ac.uk/study/postgraduate/2022/eng/phd-eng-maths/)
+Funding is available for suitable candidates at a tax-free stipend of £15,609 for 2021/22 (2022/23 rate tbc) per year. Further details can be found at: [PhD Engineering Mathematics](http://www.bristol.ac.uk/study/postgraduate/2022/eng/phd-eng-maths/)
 
 The studentship is to undertake research in the areas of robotic *grasping, manipulation and physical human-robot interaction*. The student will work closely with me and will have access to state-of-the-art robotics equipment at the Bristol Robotics Laboratory. The Studentship is available from now and will remain open for applications until the position is filled.
 
