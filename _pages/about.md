@@ -17,15 +17,14 @@ profile:
   image: my-octocat.png
 >>>>>>> Website content for old version
   address: >
-    <p>Lecturer in Data Science •</p>
-    <p>Robotics</p>
+    <p>Lecturer in Data Science • Robotics</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a Lecturer in Data Science and Robotics in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics). 
+I am a Lecturer in Data Science and Robotics in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics). 
 
 **Previously**:
 * Senior Research Associate in Robotics at the Dept of Enginnering Maths at the University of Bristol.
