@@ -9,16 +9,21 @@ authors:
   - name: Efi Psomopoulou
     affiliations:
       name: University of Bristol
+
+toc:
+  - name: Application process
+  - name: Research areas
+  - name: Funding information
 ---
 
-### This is a two-part application process
+### Application process
 
 Deadline | Process
  --- | ---
 `7 January 2022` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Suitable applicants should initially contact me for the preparation of their research proposal at **efi.psomopoulou[at]bristol.ac.uk**, enclosing a copy of their CV and a short paragraph of why they are interested in the Scholarship. 
 `11 January 2022` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Final application submission through the University's system: [PhD Engineering Mathematics](http://www.bristol.ac.uk/study/postgraduate/2022/eng/phd-eng-maths/)
 
-### Research areas for the Studentship
+### Research areas
 
 The studentship is to undertake research in the areas of robotic `grasping, manipulation and physical human-robot interaction`. The student will work closely with me and will have access to state-of-the-art robotics equipment at the [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/).
 
