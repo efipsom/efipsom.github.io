@@ -18,15 +18,20 @@ toc:
 
 ### Application process
 
+#### For a September 2022 start date
+
 Deadline | Process
  --- | ---
 `7 January 2022` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Suitable applicants should initially contact me for the preparation of their research proposal at **efi.psomopoulou[at]bristol.ac.uk**, enclosing a copy of their CV and a short paragraph of why they are interested in the Scholarship. 
 `11 January 2022` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Final application submission through the University's system: [PhD Engineering Mathematics](http://www.bristol.ac.uk/study/postgraduate/2022/eng/phd-eng-maths/)
 
+#### For a September 2023 start date
+
+`Ongoing`: Suitable applicants should contact me for the preparation of their research proposal at **efi.psomopoulou[at]bristol.ac.uk**, enclosing a copy of their CV and a short paragraph of why they are interested in the scholarship. 
+
 ### Research areas
 
 The studentship is to undertake research in the areas of robotic `grasping, manipulation and physical human-robot interaction`. The student will work closely with me and will have access to state-of-the-art robotics equipment at the [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/).
-
 
 ### Funding information
 
