@@ -17,16 +17,18 @@ profile:
   image: my-octocat.png
 >>>>>>> Website content for old version
   address: >
-    <p>Lecturer in Data Science • Robotics</p>
+    <p>Lecturer in Data Science • </p>
+    <p>Research in Robotics</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer in Data Science and Robotics in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics). 
+I am a Lecturer in Data Science in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics).
 
-**Previously**:
+### Previously
+
 * Senior Research Associate in Robotics at the Dept of Enginnering Maths at the University of Bristol.
 * Teaching Fellow in Data Science at the Dept of Enginnering Maths at the University of Bristol.
 * Research Associate in Medical Robotics at the Dept of Engineering, Design and Mathematics at the University of the West of England and Bristol Robotics Laboratory.
@@ -35,7 +37,7 @@ I am a Lecturer in Data Science and Robotics in the Dept of Engineering Maths at
 
 I hold a Diploma (BEng/MEng) and a PhD from the Dept of ECE at AUTH.
 
-**Research areas I work in**:
+### Research areas I work in
 
 * Stable object grasping and in-hand manipulation.
 * Human-inspired human-robot object handover strategies.
@@ -43,9 +45,7 @@ I hold a Diploma (BEng/MEng) and a PhD from the Dept of ECE at AUTH.
 * Non model-based control of robotic systems with prescribed performance guarantees.
 * Bilateral teleoperation with haptic feedback for minimally invasive robotic surgery.
 
-**Other activities and interests**
+### Other activities and interests
 
 * I am a Research Staff Representative in the School of Computer Science, Electrical Engineering and Engineering Mathematics at the Faculty of Engineering of Bristol University.
 * I play the violin in the [Bristol University Symphony Orchestra](http://www.bristol.ac.uk/music/performance/calling-all-musicians/instrumental/#symphony) and in the [Bristol Symphony Orchestra](https://www.bristolsymphonyorchestra.com/).
-
-
