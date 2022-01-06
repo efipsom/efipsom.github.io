@@ -27,7 +27,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a Lecturer in Data Science in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics).
 
-> :loudspeaker: Currently looking for PhD students. More info: [PhD post](../news/phd_position).
+> :loudspeaker: Currently looking for PhD students. More info: [PhD post](/news/phd_position).
 
 ### Previously
 
