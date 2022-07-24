@@ -6,9 +6,9 @@ description: Grasping and in-hand Manipulation • physical Human-Robot Interact
 
 profile:
   align: right
-  image: my-octocat.png
+  image: profile-pic.png
   address: >
-    <p>Lecturer in Data Science • </p>
+    <p>Assistant Prof in Data Science • </p>
     <p>Research in Robotics</p>
 
 news: true  # includes a list of news items
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer in Data Science in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics).
+I am a Lecturer (Assistant Professor) in Data Science in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics).
 
 > :loudspeaker: Currently looking for PhD students. More info: [PhD post](/news/phd_position).
 
