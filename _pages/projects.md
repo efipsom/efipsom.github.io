@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [current projects, past projects]
+display_categories: [current themes, past funded projects]
 horizontal: false
 ---
 
