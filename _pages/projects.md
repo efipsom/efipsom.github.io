@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: 
 nav: true
-display_categories: [current projects, past projects]
+display_categories: [current themes, past funded projects]
 horizontal: false
 ---
 <div class="projects">
