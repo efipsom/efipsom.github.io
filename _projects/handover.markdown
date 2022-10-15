@@ -1,14 +1,37 @@
 ---
-layout: post
+layout: distill
 title: Handover
-description: Human-to-robot object handover 
+description: Human-to-robot object handovers 
 img: assets/img/handover.png
 importance: 2
-category: current themes
+category: themes
+bibliography: papers.bib
+date: 2022-10-15
+authors:
+  - name: See references list
+    affiliations:
+      name: See references list
 ---
 
+### Work done in the area of human-to-robot object handovers <d-cite key="Sidiropoulos2019,Psomopoulou2015,Psomopoulou2015b,Psomopoulou2014"></d-cite>.
+* Approaching phase: Learning by Demonstration using Dynamical Systems with Gaussian Mixture Models.
+* Object load transfer phase: Stable grasping controller with object weight estimation.
+* Implementation on a KUKA LWR+ arm and a Barrett Hand.
 
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/handover_sim.png class: "img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/handover_real.png class: "img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/handbottle.png class: "img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Simulation (in V-REP) and experiments of an object handover.
+</div>
 
 ### Video
 

@@ -1,13 +1,19 @@
 ---
-layout: post
+layout: distill
 title: Grasping
-description: Stable grasping 
+description: Stable object grasping 
 img: assets/img/grasping.png
 importance: 1
-category: current themes
+category: themes
+bibliography: papers.bib
+date: 2022-10-15
+authors:
+  - name: See references list
+    affiliations:
+      name: See references list
 ---
 
-Work done in the area of stable robotic grasping.
+### Work done in the area of stable robotic grasping <d-cite key="Psomopoulou2021,Psomopoulou2018,Grammatikopoulou2014"></d-cite>.
 * Non model-based torque controller using passivity theory for stability analysis.
 * Deep learning using convolutional neural networks on images from an optical tactile sensor (the TacTip, developed in Bristol Robotics Laboratory).
 * Implementation on two different fully actuated robotic hands.
@@ -21,15 +27,12 @@ Work done in the area of stable robotic grasping.
     </div>
 </div>
 <div class="caption">
-    Images of the implementation of the developed grasping controller on the Shadow Modular Grasper (left) and a prototype robotic hand (right).
+    Images of the implementation of the developed grasping controller on the Shadow Modular Grasper (left <d-cite key="Psomopoulou2021"></d-cite>) and a prototype robotic hand (right <d-cite key="Psomopoulou2018"></d-cite>).
 </div>
 
 ### Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfQesw3FDA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A6WuCj2WzzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
---- 
-### Related publications
-
