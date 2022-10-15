@@ -13,7 +13,7 @@ authors:
       name: See references list
 ---
 
-### Work done in the area of stable robotic grasping <d-cite key="Psomopoulou2021,Psomopoulou2018,Grammatikopoulou2014"></d-cite>.
+## Stable robotic grasping <d-cite key="Psomopoulou2021,Psomopoulou2018,Grammatikopoulou2014"></d-cite>.
 * Non model-based torque controller using passivity theory for stability analysis.
 * Deep learning using convolutional neural networks on images from an optical tactile sensor (the TacTip, developed in Bristol Robotics Laboratory).
 * Implementation on two different fully actuated robotic hands.

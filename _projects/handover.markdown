@@ -13,7 +13,7 @@ authors:
       name: See references list
 ---
 
-### Work done in the area of human-to-robot object handovers <d-cite key="Sidiropoulos2019,Psomopoulou2015,Psomopoulou2015b,Psomopoulou2014"></d-cite>.
+## Human-to-robot object handovers <d-cite key="Sidiropoulos2019,Psomopoulou2015,Psomopoulou2015b,Psomopoulou2014"></d-cite>.
 * Approaching phase: Learning by Demonstration using Dynamical Systems with Gaussian Mixture Models.
 * Object load transfer phase: Stable grasping controller with object weight estimation.
 * Implementation on a KUKA LWR+ arm and a Barrett Hand.
