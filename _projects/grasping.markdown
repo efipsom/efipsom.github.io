@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Grasping
-description: Stable object grasping 
+description:  
 img: assets/img/grasping.png
 importance: 1
 category: themes
@@ -20,10 +20,10 @@ authors:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/pinching.png class: "img-fluid rounded z-depth-1" %}
+        {% responsive_image path: assets/img/pinching.png class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/2d_grasping.png class: "img-fluid rounded z-depth-1" %}
+        {% responsive_image path: assets/img/2d_grasping.png class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
 </div>
 <div class="caption">

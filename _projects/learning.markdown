@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Learning
-description: Machine learning for tactile manipulation
+title: Robot Learning
+description: 
 img: assets/img/learning.png
 importance: 4
 category: themes
