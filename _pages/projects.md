@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description: (theme icons found on IconScout)
 nav: true
 nav_order: 2
 display_categories: [themes, past projects]

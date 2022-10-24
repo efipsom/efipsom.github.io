@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Handover
-description: Human-to-robot object handovers 
+description: 
 img: assets/img/handover.png
 importance: 2
 category: themes
@@ -13,20 +13,20 @@ authors:
       name: See references list
 ---
 
-## Human-to-robot object handovers <d-cite key="Sidiropoulos2019,Psomopoulou2015,Psomopoulou2015b,Psomopoulou2014"></d-cite>.
-* Approaching phase: Learning by Demonstration using Dynamical Systems with Gaussian Mixture Models.
-* Object load transfer phase: Stable grasping controller with object weight estimation.
+## Human-to-robot object handovers
+* Approaching phase: Learning by Demonstration using Dynamical Systems with Gaussian Mixture Models <d-cite key="Sidiropoulos2019"></d-cite>.
+* Object load transfer phase: Stable grasping controller with object weight estimation <d-cite key="Psomopoulou2015,Psomopoulou2015b,Psomopoulou2014"></d-cite>.
 * Implementation on a KUKA LWR+ arm and a Barrett Hand.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/handover_sim.png class: "img-fluid rounded z-depth-1" %}
+        {% responsive_image path: assets/img/handover_sim.png class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/handover_real.png class: "img-fluid rounded z-depth-1" %}
+        {% responsive_image path: assets/img/handover_real.png class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/handbottle.png class: "img-fluid rounded z-depth-1" %}
+        {% responsive_image path: assets/img/handbottle.png class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
 </div>
 <div class="caption">
