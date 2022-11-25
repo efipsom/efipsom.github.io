@@ -1,16 +1,9 @@
 ---
 layout: page
-<<<<<<< HEAD
-permalink: /cv/
-title: cv
-description:
-nav: true
-=======
 permalink: /more/
 title: more
 nav: false
 nav_order: 6
->>>>>>> upgrade
 ---
 
 ### Previous positions

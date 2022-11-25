@@ -14,12 +14,8 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-<<<<<<< HEAD
-icon: 🤖 # the emoji used as the favicon
-=======
 icon: profile-pic.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
->>>>>>> upgrade
 url: https://efipsom.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -62,12 +58,8 @@ max_width: 1000px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
-<<<<<<< HEAD
-og_image: /assets/img/my-octocat.png # The site-wide (default for all links) Open Graph preview image
-=======
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: /assets/img/profile-pic.png # The site-wide (default for all links) Open Graph preview image
->>>>>>> upgrade
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -76,11 +68,6 @@ og_image: /assets/img/profile-pic.png # The site-wide (default for all links) Op
 github_username: efipsom # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: efi_psomopoulou # your Twitter handle
-<<<<<<< HEAD
-linkedin_username: efi-psomopoulou # your LinkedIn user name
-scholar_userid: kVyW-LEAAAAJ # your Google Scholar ID
-orcid_id: 0000-0003-3883-4097 # your ORCID ID
-=======
 mastodon_username: masto.ai/@efi # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: efi-psomopoulou # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -88,7 +75,6 @@ scholar_userid: kVyW-LEAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-3883-4097 # your ORCID ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
->>>>>>> upgrade
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -125,12 +111,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
-blog_name: # your blog must have a name for it to show up in the nav bar
-=======
 blog_name: News # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
->>>>>>> upgrade
 blog_description: This is where I talk about my research.
 permalink: /blog/:year/:title/
 
@@ -163,12 +145,8 @@ collections:
     output: true
     permalink: /projects/:path/
 
-<<<<<<< HEAD
-news_limit: 4
-=======
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
->>>>>>> upgrade
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -235,11 +213,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-<<<<<<< HEAD
-  enabled: [tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
-=======
   enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
->>>>>>> upgrade
   layouts:
     #year: archive-year
     tag: archive-tag
@@ -339,11 +313,7 @@ enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
-<<<<<<< HEAD
-enable_darkmode:            true   # enables switching between light/dark modes
-=======
 enable_darkmode:            false   # enables switching between light/dark modes
->>>>>>> upgrade
 enable_navbar_social:       true  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into

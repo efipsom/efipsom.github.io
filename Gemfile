@@ -17,11 +17,8 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem "kramdown-parser-gfm"
-<<<<<<< HEAD
-=======
 end
 group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
->>>>>>> upgrade
 end
