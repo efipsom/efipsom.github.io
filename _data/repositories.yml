@@ -1,0 +1,9 @@
+github_users:
+  - efipsom
+
+github_repos:
+  - nlepora/pbts-2d
+  - deepmind/mujoco
+  - ipc-sim/ipc-toolkit
+  - BerkeleyCurtis/EECS249_HapticGlove
+  - grablab/openhand_node

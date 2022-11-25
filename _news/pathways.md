@@ -13,7 +13,11 @@ Register on Eventbrite <a href="https://www.eventbrite.com/e/pathways-to-indepen
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+<<<<<<< HEAD
         {% responsive_image path: assets/img/pathways.jpg class: "img-fluid rounded z-depth-1" width: 400 %}
+=======
+        {% include figure.html path="assets/img/pathways.jpg" class="img-fluid rounded z-depth-1" %}
+>>>>>>> upgrade
     </div>
 </div>
 <div class="caption">

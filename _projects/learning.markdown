@@ -17,7 +17,11 @@ authors:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+<<<<<<< HEAD
         {% responsive_image path: assets/img/manipulation.jpg class: "img-fluid rounded z-depth-1" %}
+=======
+        {% include figure.html path="assets/img/manipulation.jpg" class="img-fluid rounded z-depth-1" %}
+>>>>>>> upgrade
     </div>
 </div>
 <div class="caption">
