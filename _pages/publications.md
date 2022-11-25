@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: An up-to-date list is available on <a href="https://scholar.google.com/citations?user=kVyW-LEAAAAJ"><u>Google Scholar</u></a> and <a href="https://www.researchgate.net/profile/Efi-Psomopoulou"><u>Research Gate</u></a>.
+description: 
 years: [2022, 2021, 2020, 2019, 2018, 2017, 2015, 2014, 2012]
 nav: true
 nav_order: 1

@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - efipsom
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - nlepora/pbts-2d
+  - deepmind/mujoco
+  - ipc-sim/ipc-toolkit
+  - BerkeleyCurtis/EECS249_HapticGlove
+  - grablab/openhand_node
