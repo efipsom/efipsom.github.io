@@ -17,11 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+I am a Lecturer (Assistant Professor) in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/). 
+
+Part of the [Dexterous Robotics Theme](https://www.bristolroboticslab.com/dexterous-robotics) and the [Intelligent Systems Lab](https://www.bristol.ac.uk/engineering/research/intelligent-systems/).
+
 > :loudspeaker: Currently looking for PhD students. More info: [PhD post](/news/phd_position).
 
-I am a Lecturer (Assistant Professor) in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/tactile-robotics). 
+<!-- ## PAINTER (**P**hysic**A**lly **INTE**ractive **R**obots) Lab -->
 
-Part of the [Dexterous Robotics Lab](https://www.bristolroboticslab.com/dexterous-robotics) and the [Intelligent Systems Lab](https://www.bristol.ac.uk/engineering/research/intelligent-systems/).
 
 ### Research areas
 
