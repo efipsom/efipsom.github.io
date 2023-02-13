@@ -8,6 +8,7 @@ github_repos:
   - bulletphysics/bullet3
   - bulletphysics/pybullet_robots
   - ac-93/tactile_gym_servo_control
+  - EpicGames/Signup
   - nlepora/pbts-2d
   - deepmind/mujoco
   - ipc-sim/ipc-toolkit
