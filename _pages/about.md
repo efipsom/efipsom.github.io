@@ -26,7 +26,7 @@ Part of the [Dexterous Robotics Theme](https://www.bristolroboticslab.com/dexter
 
 <!-- ## PAINTER (**P**hysic**A**lly **INTE**ractive **R**obots) Lab -->
 
-{% twitter https://twitter.com/efi_psomopoulou/status/1657125624534671362 %}
+{% twitter https://twitter.com/efi_psomopoulou/status/1657128448848961536 %}
 
 ---
 
