@@ -36,11 +36,11 @@ The project introduces a novel technological framework for enabling robots to pe
 
 The positions will be based at the [Bristol Robotics Laboratory](www.brl.ac.uk) the largest centre for multidisciplinary robotics research in the UK. It will operate within the internationally-leading Dexterous Robotics Group at Bristol Robotics Laboratory, which is an exciting and vibrant research group with several recent lecturer appointment, 25 researchers and a range of state-of-the-art robot equipment. You will use dedicated facilities and expertise from the Robotics Lab in addition to those of the Faculties of Engineering and Science at the University of Bristol and project partners.
 
+You will be working in a team with the two supervisors, a postdoctoral Research Associate and a Research Technician (both to be advertised soon). We are intending to recruit other PhD students to the team to provide a cohesive and supportive environment for the members.
+
 ### Funding information
 
 This is a fully-funded PhD studentship at standard UKRI rates (currently £18,022 for 2023/24 year). Fees for UK and Irish residents will be covered. There will be additional funds from the project grant for equipment and travel that are substantially in excess of those usually available for PhD studies.
-
-You will be working in a team with the two supervisors, a postdoctoral Research Associate and a Research Technician (both to be advertised soon). We are intending to recruit other PhD students to the team to provide a cohesive and supportive environment for the members.
 
 **NOTE:**
 This scholarship is available ONLY to UK citizens and EU applicants who have been resident in the UK for at least 3 years (some constraints are in place around residence for education) and have UK settlement or pre-settlement status under the EU Settlement Scheme.
