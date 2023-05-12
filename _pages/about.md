@@ -21,10 +21,11 @@ I am a Lecturer (Assistant Professor) in the Dept of Engineering Maths at the [U
 
 Part of the [Dexterous Robotics Theme](https://www.bristolroboticslab.com/dexterous-robotics) and the [Intelligent Systems Lab](https://www.bristol.ac.uk/engineering/research/intelligent-systems/).
 
-> :loudspeaker: Currently looking for PhD students. More info: [PhD post](/news/phd_position).
+> :loudspeaker: PhD post available for November 2023 start. More info: [PhD post](/news/phd_position_MANIBOT).
 
 <!-- ## PAINTER (**P**hysic**A**lly **INTE**ractive **R**obots) Lab -->
 
+---
 
 ### Research areas
 
@@ -35,4 +36,8 @@ My research vision is to create dexterous and safe robotic physical interactions
 * Non model-based control of robotic systems with prescribed performance guarantees.
 * Bilateral teleoperation with haptic feedback.
 
+---
+
 {% twitter https://twitter.com/efi_psomopoulou maxwidth=500 limit=3 %}
+
+---
