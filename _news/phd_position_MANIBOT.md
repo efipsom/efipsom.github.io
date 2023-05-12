@@ -14,7 +14,7 @@ authors:
 toc:
   - name: Start date
   - name: Application process
-  - name: Research areas
+  - name: Project information
   - name: Funding information
 ---
 
