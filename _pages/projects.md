@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: (theme icons found on IconScout)
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [themes, past projects]
 horizontal: false
 ---

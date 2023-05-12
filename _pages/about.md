@@ -2,17 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: Grasping and in-hand Manipulation • Physical Robot Interaction • Control Engineering
+subtitle: Grasping and in-hand Manipulation • Control Engineering
 
 profile:
   align: right
   image: profile-pic.png
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>Assistant Professor </p>
-    <p>Data Science • Robotics</p>
+    <p>Efi Psomopoulou </p>
+    <p>Assistant Professor</p>
 
 news: false  # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -21,15 +22,17 @@ I am a Lecturer (Assistant Professor) in the Dept of Engineering Maths at the [U
 
 Part of the [Dexterous Robotics Theme](https://www.bristolroboticslab.com/dexterous-robotics) and the [Intelligent Systems Lab](https://www.bristol.ac.uk/engineering/research/intelligent-systems/).
 
-> :loudspeaker: PhD post available for November 2023 start. More info: [PhD post](/news/phd_position_MANIBOT).
+<!-- > :loudspeaker: PhD post available for November 2023 start. More info: [PhD post](/news/phd_position_MANIBOT). -->
 
 <!-- ## PAINTER (**P**hysic**A**lly **INTE**ractive **R**obots) Lab -->
+
+{% twitter https://twitter.com/rubygems/status/518821243320287232 %}
 
 ---
 
 ### Research areas
 
-My research vision is to create dexterous and safe robotic physical interactions with the environment or humans in unstructured scenarios by combining control methods and machine learning techniques.
+I aim to create dexterous and safe robotic physical interactions with the environment or humans in unstructured scenarios by combining control methods and machine learning techniques.
 * Stable object grasping and in-hand manipulation.
 * Human-inspired human-robot object handover strategies.
 * Control of flexible joint robots with variable elasticity.
@@ -38,6 +41,6 @@ My research vision is to create dexterous and safe robotic physical interactions
 
 ---
 
-{% twitter https://twitter.com/efi_psomopoulou maxwidth=500 limit=3 %}
+<!-- {% twitter https://twitter.com/efi_psomopoulou maxwidth=500 limit=3 %}
 
----
+--- -->

@@ -4,7 +4,7 @@ permalink: /videos/
 title: videos
 description: Videos of research projects
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ### Stable Grasping and In-hand Manipulation
