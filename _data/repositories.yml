@@ -1,15 +1,16 @@
 github_users:
   - efipsom
+  - dexterousrobot
 
 github_repos:
   - efipsom/SenseGlove-API
-  - BerkeleyCurtis/EECS249_HapticGlove
+  - efipsom/BRL_Remote_Feelings
   - grablab/openhand_node
-  - bulletphysics/bullet3
+  - efipsom/3D3FController
   - bulletphysics/pybullet_robots
-  - ac-93/tactile_gym_servo_control
+  - efipsom/tactile_sim
   - EpicGames/Signup
-  - nlepora/pbts-2d
+  - efipsom/allegro_hand_linux_v4
   - deepmind/mujoco
   - ipc-sim/ipc-toolkit
 
