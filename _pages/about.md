@@ -18,15 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am based in the Dept of Engineering Maths at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/). 
+I am based in the School of Engineering Mathematics and Technology at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/). 
 
 Part of the [Dexterous Robotics Theme](https://www.bristolroboticslab.com/dexterous-robotics) and the [Intelligent Systems Lab](https://www.bristol.ac.uk/engineering/research/intelligent-systems/).
 
 <!-- > :loudspeaker: PhD post available for November 2023 start. More info: [PhD post](/news/phd_position_MANIBOT). -->
 
 <!-- ## PAINTER (**P**hysic**A**lly **INTE**ractive **R**obots) Lab -->
-
-{% twitter https://twitter.com/efi_psomopoulou/status/1657128448848961536 %}
 
 ---
 
