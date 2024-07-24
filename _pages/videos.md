@@ -27,11 +27,19 @@ nav_order: 4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A6WuCj2WzzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ljw4J1nseo?si=kBt3am6RyDhT9ugp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YTB-gYzTaDU?si=SdBCJw0-DVPBtz2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Project website: [AnyRotate](https://maxyang27896.github.io/anyrotate/)
+
 ---
 
 ### Human-to-Robot Handover
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eWn1Kby0mK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCsES1xUoGw?si=rrTKpPGvXF1W5Zc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
