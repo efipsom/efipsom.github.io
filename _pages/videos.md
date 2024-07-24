@@ -7,6 +7,20 @@ nav: true
 nav_order: 4
 ---
 
+### Robot Hands
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sRKxjtlK28A?si=Cro0KQSpc59nZ8W0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VV3hCQBoDRs?si=c7htZYFf5W2kLQlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### Tactile Sensors
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkgVg-ZGmQg?si=RqXNlPRELZmoljN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Stable Grasping and In-hand Manipulation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfQesw3FDA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
