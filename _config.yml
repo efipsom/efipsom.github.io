@@ -6,7 +6,7 @@ title: Engineering For Intelligent Robotics (EFI R) Lab # the website title (if 
 first_name: Efi
 middle_name: 
 last_name: Psomopoulou
-email: efi.psomopoulou@bristol.ac.uk
+email: efi-robotics@proton.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website. Based on [al-folio](https://github.com/alshedivat/al-folio) design.
 footer_text: >
