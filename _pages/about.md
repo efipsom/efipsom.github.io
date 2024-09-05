@@ -1,8 +1,8 @@
 ---
 layout: about
-title: lab
+title: efi-r
 permalink: /
-subtitle: EFI-R Lab
+subtitle: EFI-R
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-The lab is based in the School of Engineering Mathematics and Technology led by Efi Psomopoulou, Assistant Professor at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/). 
+Based in the School of Engineering Mathematics and Technology and led by Efi Psomopoulou, Assistant Professor at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/). 
 
 Part of the [Dexterous Robotics Theme](https://www.bristolroboticslab.com/dexterous-robotics) and the [Intelligent Systems Lab](https://www.bristol.ac.uk/engineering/research/intelligent-systems/).
 
@@ -27,7 +27,7 @@ Part of the [Dexterous Robotics Theme](https://www.bristolroboticslab.com/dexter
 
 ### Research areas
 
-EFI-R Lab aims to create dexterous and safe robotic physical interactions with the environment or humans in unstructured scenarios by combining control methods and machine learning techniques.
+EFI-Robotics aims to create dexterous and safe robotic physical interactions with the environment or humans in unstructured scenarios by combining control methods and machine learning techniques.
 * Stable object grasping and in-hand manipulation.
 * Human-inspired human-robot object handover strategies.
 * Control of flexible joint robots with variable elasticity.
