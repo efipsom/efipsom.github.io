@@ -1,8 +1,8 @@
 ---
 layout: about
-title: efi-r
+title: efi-robotics
 permalink: /
-subtitle: EFI-R
+subtitle: EFI Robotics
 
 profile:
   align: right

@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /team/
-title: team
-nav: true
-nav_order: 6
+permalink: /team-lead/
+title: Team Lead
+nav: false
+nav_order: 
 cv_pdf: 
 ---
